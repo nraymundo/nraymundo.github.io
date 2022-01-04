@@ -1,0 +1,17 @@
+.projects-page {
+  width: 90%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  align-items: center;
+}
+
+.cards-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 4%;
+  margin-bottom: 6%;
+}
